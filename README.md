@@ -13,7 +13,7 @@ You need to pay attention to configure and run Ganache (for a local blockchain) 
 
 # Deployment
 
-* git clone https://github.com/bukosabino/truffle-voting-dapp.git
+* git clone https://github.com/Yuvasri7826/Vote.git
 * cd truffle-voting-dapp
 * npm install -g truffle
 * npm install
