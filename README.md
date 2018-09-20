@@ -2,8 +2,6 @@
 
 This is a DApp example on Ethereum local network using Truffle Framework.
 
-If you want use this dapp on ropsten testnet you can check this repo: https://github.com/bukosabino/truffle-voting-dapp-ropsten
-
 We develop a DApp where the users can create proposals and vote them. Of course, they can vote once per proposal with the options in support, against or absence.
 
 
