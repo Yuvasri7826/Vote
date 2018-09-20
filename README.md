@@ -6,7 +6,6 @@ If you want use this dapp on ropsten testnet you can check this repo: https://gi
 
 We develop a DApp where the users can create proposals and vote them. Of course, they can vote once per proposal with the options in support, against or absence.
 
-[For Spanish speaking readers, you can read more about this tutorial](https://medium.com/@bukosabino/desarrollo-de-una-dapp-sobre-la-red-ethereum-1a4665c3856a).
 
 # Preconditions
 
@@ -24,16 +23,8 @@ You need to pay attention to configure and run Ganache (for a local blockchain) 
 * truffle migrate --reset
 * npm run dev
 
-# TODO:
 
-* Init and end dates to proposals.
-* Anonymous users.
 
-# Credits:
-
-Developed by Bukosabino at Lecrin Technologies - http://lecrintech.com
-
-We are glad to receive any contribution, idea or feedback.
 
 # Donation Address
 
